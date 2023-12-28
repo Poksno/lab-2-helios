@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="lab-2-helios:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_2_helios_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lab-2-helios.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="lab-2-helios" />
+      </element>
+      <element id="library" level="project" name="Pokemon" />
+    </root>
+  </artifact>
+</component>
